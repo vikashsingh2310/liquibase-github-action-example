@@ -35,7 +35,4 @@ alter table company add column country varchar(2)
 --checking the pipeline 
 --changeset yourname:yourname1
 --rollback DROP TABLE yourname;
-CREATE TABLE vikash (
-id int primary key,
-name varchar(50) not null,
-)
+CREATE TABLE yourname1
